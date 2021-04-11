@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AgathiyaRaja/AgathiyaRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Artificial Intelligence with Strive School 
 - 🌱 I’m currently learning Python and its libraries, ML models, Deep learning and NLP
